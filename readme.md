@@ -4,22 +4,19 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/kichiya999x">
+    <img src="https://i.pinimg.com/736x/85/79/85/8579851e4b79283a9777f75632e188af.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hero and Card Display Website - Hands On 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This website is a Hero and Card Display Website with distinct designs using pure HTML and CSS. Include both static and animated versions of the headers and footers. Ensure the website is well-structured, deployed, and the README file is updated accordingly.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
@@ -57,26 +54,17 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+It's a website that displays distinct hero and card designs using pure HTML and CSS.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +105,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Elden Ring Website | I used this as a reference for my website | https://en.bandainamcoent.eu/elden-ring/elden-ring |
+| Playstation Website | I used this as inspo for my website | https://www.bing.com/ck/a?!&&p=95bd4c6c6fad3135JmltdHM9MTcxOTAxNDQwMCZpZ3VpZD0yYmM4NTJiOS00MGE1LTY0ZjgtM2Q5My00MTU3NDEzODY1YTgmaW5zaWQ9NTIwOQ&ptn=3&ver=2&hsh=3&fclid=2bc852b9-40a5-64f8-3d93-4157413865a8&psq=playstation+website&u=a1aHR0cHM6Ly93d3cucGxheXN0YXRpb24uY29tL2VuLXVzLw&ntb=1 |
+| Github Code | Reference for cards | https://github.com/pichfl/florianpichler-de |
+| 
