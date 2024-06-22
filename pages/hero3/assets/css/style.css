@@ -28,23 +28,26 @@ header {
     gap: 20px;
   }
 
-  .jumbotron {
-    min-height: 600px;
+  .hero {
     background-image: url(https://psfannet.files.wordpress.com/2020/12/psfannet_returnal.jpg);
     height: 100dvh;
     width: 100dvw;
     background-size: cover;
-    margin-bottom: 30px;
-    margin-top: 98px;
     padding-top: 17rem;
     padding-bottom: 5rem;
 }
 
-.jumbotron .content {
+.hero .content {
     height: 100%;
     color: white;
     
     h1, p, button {
       margin-top: 50px; /* Adjust this value as needed */
   }
+}
+
+.blank{
+  position: absolute;
+  height: 100dvh;
+  width: 100dvw;
 }
